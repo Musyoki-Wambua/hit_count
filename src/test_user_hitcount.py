@@ -2,7 +2,7 @@ import unittest
 from unittest.mock import patch
 
 # Mock for redis
-import mockredis
+# import mockredis
 import hitcount
 
 class HitCountTest(unittest.TestCase):
