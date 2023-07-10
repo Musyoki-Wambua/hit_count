@@ -2,7 +2,7 @@
 FROM python:latest
 
 # Author: Victor
-LABEL maintainer="Victor Moringa School <victor.njonge@moringaschool.com>"
+LABEL maintainer="Wambua Moringa School <wambua.musyoki@moringaschool.com>"
 
 # Install redis driver for python and the redis mock
 RUN pip install redis && pip install mockredispy
