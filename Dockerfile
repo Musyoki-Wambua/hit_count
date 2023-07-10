@@ -15,3 +15,4 @@ WORKDIR /src/
 
 # Make unittest as the default execution
 ENTRYPOINT python3 -m unittest
+
